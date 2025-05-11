@@ -1,6 +1,4 @@
-import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
-from scipy.special import expi
-import time
-from datetime import datetime
+streamlit==1.45.0
+numpy==2.2.0
+matplotlib==3.10.3
+scipy==1.15.0
